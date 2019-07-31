@@ -3,4 +3,5 @@ RENCANA PROGRAM
 - PHP project
 - Java Programing
   * menggunakan Netbeans
+   ~ perulangan
   * dan database MySQL
